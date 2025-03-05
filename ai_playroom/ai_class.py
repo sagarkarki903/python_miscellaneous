@@ -15,7 +15,8 @@ class GroqChatbot:
         # 🧠 Custom memory (can be expanded later)
         self.custom_memory = {
             "Sagar": "Sagar is a talented software developer with expertise in AI and automation. He enjoys learning about finance and entrepreneurship. He plays guitar and sings too. ",
-            "Karki": "Karki is a last name commonly associated with Nepal and South Asia. It is often used as a surname by various communities."
+            "Karki": "Karki is a last name commonly associated with Nepal and South Asia. It is often used as a surname by various communities.",
+            "Kaushal": "Kaushal is a gandu. He is rich."
         }
 
     def chat(self, user_message):
